@@ -1,4 +1,4 @@
-torch
-torchtext == 0.7
+torch >= 1.7.0
+torchtext == 0.8.0
 matplotlib
 otter-grader == 1.0.0
